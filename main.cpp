@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
     cout << "Problem 1\n";
-    cout << problemSolution1(55)<<endl;
+    cout << problemSolution1(29.9)<<endl;
     cout << "Problem 2\n";
     cout <<  "The maximum number is " <<  problemSolution2(34.9 ,34.5 ,34.2)<<endl;
     cout << "Problem 3\n";
