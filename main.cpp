@@ -9,14 +9,14 @@ using namespace std;
 
 int main() {
     cout << "Problem 1\n";
-    cout << problemSolution1(55);
+    cout << problemSolution1(55)<<endl;
     cout << "Problem 2\n";
-    cout <<  "The maximum number is " <<  problemSolution2(34.9 ,34.5 ,34.2);
+    cout <<  "The maximum number is " <<  problemSolution2(34.9 ,34.5 ,34.2)<<endl;
     cout << "Problem 3\n";
-    cout << problemSolution3(1.5 ,'M' );
+    cout << problemSolution3(1.5 ,'M' )<<endl;
     cout << "Problem 4\n";
-    problemSolution4(FF:FF:FF:FF:FF:FF);
+    cout << problemSolution4("FF:FF:FF:FF:FF:FF")<<endl;
     cout << "Problem 5\n";
-    problemSolution5();
+    cout << problemSolution5(105,45,'+')<<endl;
     return 0;
 }
